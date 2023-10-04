@@ -16,5 +16,5 @@ Problem For Disc Galaxies.' I am currently completing the AiCore Specialist Ai a
 ## Favourite Projects
 
 ```python3
-Hangman Game = {'link': 'https://github.com/jbell22j/hangman'}
+Hangman Game = {'link': '<https://github.com/jbell22j/hangman>'}
 
