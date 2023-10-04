@@ -13,3 +13,8 @@ jbell22j = {
 I am a recent MMath graduate with a focus on Applied Mathematics with my dissertation titled, 'The Inverse Magnetohydrodynamic
 Problem For Disc Galaxies.' I am currently completing the AiCore Specialist Ai and Data bootcamp specialising in Data Engineering.
 
+## Favourite Projects
+
+```python3
+Hangman Game = {'link': 'https://github.com/jbell22j/hangman'}
+
