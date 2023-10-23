@@ -16,5 +16,6 @@ Problem For Disc Galaxies.' I am currently completing the AiCore Specialist Ai a
 ## Favourite Projects
 
 Hangman Game = '<https://github.com/jbell22j/hangman>'
+
 Multination Retail Data Centralisation = '<https://github.com/jbell22j/multinational-retail-data-centralisation>'
 
