@@ -15,9 +15,7 @@ Problem For Disc Galaxies.' Recently completed the AiCore Ai and Data bootcamp s
 
 ## Favourite Projects
 
-Multination Retail Data Centralisation = <https://github.com/jbell22j/multinational-retail-data-centralisation>
-
-Hangman Game = <https://github.com/jbell22j/hangman>
-
 Pinterest Data Pipeline = <https://github.com/jbell22j/pinterest-data-pipeline>
+
+Multination Retail Data Centralisation = <https://github.com/jbell22j/multinational-retail-data-centralisation>
 
