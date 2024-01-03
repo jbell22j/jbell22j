@@ -10,12 +10,14 @@ jbell22j = {
     'interests': ['Modelling','Electronic Music','Data Science','Applied Mathematics','Cryptography','Physics']
 } 
 ```
-I am a recent MMath graduate with a focus on Applied Mathematics with my dissertation titled, 'The Inverse Magnetohydrodynamic
-Problem For Disc Galaxies.' I am currently completing the AiCore Specialist Ai and Data bootcamp specialising in Data Engineering.
+MMath graduate with a focus on Applied Mathematics with my dissertation titled, 'The Inverse Magnetohydrodynamic
+Problem For Disc Galaxies.' Recently completed the AiCore Ai and Data bootcamp specialising in Data Engineering.
 
 ## Favourite Projects
 
+Multination Retail Data Centralisation = <https://github.com/jbell22j/multinational-retail-data-centralisation>
+
 Hangman Game = <https://github.com/jbell22j/hangman>
 
-Multination Retail Data Centralisation = <https://github.com/jbell22j/multinational-retail-data-centralisation>
+Pinterest Data Pipeline = <https://github.com/jbell22j/pinterest-data-pipeline>
 
