@@ -5,7 +5,7 @@
 jbell22j = {
     'name': 'Josh Bell',
     'location': 'Stanley, Durham, UK'
-    'computer_languages': ['Python','R','Java']
+    'computer_languages': ['Python','R','Java', 'SQL']
     'human_languages': ['English']
     'interests': ['Modelling','Electronic Music','Data Science','Applied Mathematics','Cryptography','Physics']
 } 
