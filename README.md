@@ -2,15 +2,6 @@
 ## About Me
 
 <p align="center">
-```python3 
-jbell22j = {
-    'name': 'Josh Bell',
-    'location': 'Stanley, Durham, UK'
-    'computer_languages': ['Python','R','Java', 'SQL']
-    'human_languages': ['English']
-    'interests': ['Modelling','Electronic Music','Data Science','Applied Mathematics','Cryptography','Physics']
-} 
-```
 
 MMath graduate with a focus on Applied Mathematics with my dissertation titled, 'The Inverse Magnetohydrodynamic
 Problem For Disc Galaxies.' Recently completed the AiCore Ai and Data bootcamp specialising in Data Engineering.
