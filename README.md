@@ -13,6 +13,8 @@ jbell22j = {
 MMath graduate with a focus on Applied Mathematics with my dissertation titled, 'The Inverse Magnetohydrodynamic
 Problem For Disc Galaxies.' Recently completed the AiCore Ai and Data bootcamp specialising in Data Engineering.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmena&layout=compact)
+
 ## Favourite Projects
 
 Pinterest Data Pipeline = <https://github.com/jbell22j/pinterest-data-pipeline>
