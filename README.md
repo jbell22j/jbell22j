@@ -8,7 +8,7 @@ Problem For Disc Galaxies.' Recently completed the AiCore Ai and Data bootcamp s
 <a href="https://www.linkedin.com/in/joshua-alex-bell-33bx/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 <p align="center"> 
-***Skills***
+**Skills**
 </p>
 <p align="center">
  <a href="https://skillicons.dev">
