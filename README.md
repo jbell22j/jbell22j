@@ -1,6 +1,7 @@
 # Hi, I'm Josh!
 ## About Me
 
+<p align="center">
 ```python3 
 jbell22j = {
     'name': 'Josh Bell',
@@ -10,7 +11,7 @@ jbell22j = {
     'interests': ['Modelling','Electronic Music','Data Science','Applied Mathematics','Cryptography','Physics']
 } 
 ```
-<p align="center">
+
 MMath graduate with a focus on Applied Mathematics with my dissertation titled, 'The Inverse Magnetohydrodynamic
 Problem For Disc Galaxies.' Recently completed the AiCore Ai and Data bootcamp specialising in Data Engineering.
 
