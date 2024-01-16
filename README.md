@@ -10,6 +10,7 @@ Problem For Disc Galaxies.' :waxing_gibbous_moon:
 
 
 **Skills**
+
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,r,aws,fastapi,github,kafka,linux,matlab,ps,postgres,visualstudio" />
       </a>
