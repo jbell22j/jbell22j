@@ -16,9 +16,4 @@ Problem For Disc Galaxies.' Recently completed the AiCore Ai and Data bootcamp s
 <a href="mailto:joshualexbell@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/joshua-alex-bell-33bx/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-## Favourite Projects
-
-Pinterest Data Pipeline = <https://github.com/jbell22j/pinterest-data-pipeline>
-
-Multination Retail Data Centralisation = <https://github.com/jbell22j/multinational-retail-data-centralisation>
 
