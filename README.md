@@ -1,4 +1,4 @@
-# Hi, I'm Josh!
+# Hi, I'm Josh! 🤝
 **About Me**
 
 * MMath graduate with a focus on Applied Mathematics with my dissertation titled, 'The Inverse Magnetohydrodynamic
