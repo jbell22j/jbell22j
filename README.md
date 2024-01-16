@@ -14,7 +14,7 @@ MMath graduate with a focus on Applied Mathematics with my dissertation titled, 
 Problem For Disc Galaxies.' Recently completed the AiCore Ai and Data bootcamp specialising in Data Engineering.
 
 <a href="mailto:YourEmail@gmail.com">![joshualexbellgmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="<LinkedInURL>">![https://www.linkedin.com/in/joshua-alex-bell-33bx/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/joshua-alex-bell-33bx/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ## Favourite Projects
 
